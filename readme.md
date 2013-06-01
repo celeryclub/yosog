@@ -1,0 +1,1 @@
+I'm trying to learn Haskell because Lisp (Clojure) was too hard. This code is taken from [yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/).
